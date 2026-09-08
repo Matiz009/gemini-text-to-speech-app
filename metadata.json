@@ -1,0 +1,6 @@
+{
+  "name": "Text-to-Speech Studio",
+  "description": "A high-fidelity text-to-speech studio with multi-language support, custom voice styles, and offline PWA capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
